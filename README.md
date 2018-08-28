@@ -1,5 +1,11 @@
 # FizzBuzzTypeScript
 
+## Added ts-test
+Based on https://stackoverflow.com/questions/30863565/unit-testing-using-jasmine-and-typescript
+
+
+------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
