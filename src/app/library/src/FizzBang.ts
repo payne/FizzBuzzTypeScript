@@ -8,13 +8,13 @@ export class FizzBang {
     while (true) {
       let result: any = this.n;
       if (this.n % 3 === 0) {
-        result = "Fizz";
+        result = 'Fizz';
       }
       if (this.n % 5 === 0) {
         if (result === this.n) {
-          result = "Buzz";
+          result = 'Buzz';
         } else {
-          result += "Buzz";
+          result += 'Buzz';
         }
       }
       const retvalue = { out: result, n: this.n };
